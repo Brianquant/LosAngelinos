@@ -174,8 +174,10 @@ input:-webkit-autofill:focus {
 }
 
 .area-title {
-  margin-bottom: 30px;
+  margin-bottom: 60px;
 }
+
+
 
 .area-title h2 {
   /*font-family: "Herr Von Muellerhoff", cursive;
@@ -190,7 +192,7 @@ input:-webkit-autofill:focus {
   letter-spacing: 2px;
   line-height: 0.8;
   margin: 0;
-  padding: 0 20px 45px;
+  padding: 0 20px 20px;
   position: relative;
   text-transform: capitalize;
 }
