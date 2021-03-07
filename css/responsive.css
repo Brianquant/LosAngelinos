@@ -485,6 +485,10 @@
     .area-title {
         margin-bottom: 30px;
     }
+
+    .trailer-title {
+        margin-bottom: 10px !important;
+      }
     a.read-more {
         margin-bottom: 30px;
     }
