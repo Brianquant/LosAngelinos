@@ -796,7 +796,22 @@ a.search-form-trigger::before {
 .about-content {
   font-size: 2rem !important;
   color: #4a4d4f;
+  display: flex;
+  justify-content: center;
+  
 }
+
+
+.contorl_video {
+  outline: none;
+  width: 100%;
+  max-width: 600px;
+
+
+}
+
+
+
 .right-about-content {
   font-size: 2rem !important;
   color: #4a4d4f;
