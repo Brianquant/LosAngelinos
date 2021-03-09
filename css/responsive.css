@@ -299,8 +299,11 @@
         width: 80%;
     }
     .promotions-details {
-        padding: 50px;
-        width: 60%;
+        height: auto;
+       margin: 0;
+      padding: 50px;
+      position: inherit;
+    width: 65rem;
     }
     .area-title {
         margin-bottom: 40px;
