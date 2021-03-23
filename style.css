@@ -51,14 +51,13 @@ Version: 2.0
   #truck {
     width: 50%;
   }
-
 }
 
 /*--------------------
    0. NEWSTICKER
 ----------------------*/
 .ticker-container {
-  background: #4ECAC2;
+  background: #4ecac2;
   width: 100%;
   overflow: hidden;
   margin: 0 auto;
@@ -178,9 +177,6 @@ input:-webkit-autofill:focus {
   margin-bottom: 60px;
 }
 
-
-
-
 .area-title h2 {
   /*font-family: "Herr Von Muellerhoff", cursive;
     font-family: 'Sacramento', cursive; 
@@ -192,7 +188,7 @@ input:-webkit-autofill:focus {
   /* font-family: "Dancing Script", cursive; */
   font-size: 60px;
   letter-spacing: 2px;
-  line-height: 0.8;
+  line-height: 1;
   margin: 0;
   padding: 0 20px 20px;
   position: relative;
@@ -297,13 +293,10 @@ input:-webkit-autofill:focus {
   color: #ca3d26;
 }
 
-
-
 .container_slider {
   display: flex;
   justify-content: center;
 }
-
 
 /*---------------------------------
     2.1 MAINMENU AREA
@@ -802,19 +795,13 @@ a.search-form-trigger::before {
   color: #4a4d4f;
   display: flex;
   justify-content: center;
-  
 }
-
 
 .contorl_video {
   outline: none;
   width: 100%;
   max-width: 600px;
-
-
 }
-
-
 
 .right-about-content {
   font-size: 2rem !important;
