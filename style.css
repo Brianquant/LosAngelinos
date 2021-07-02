@@ -71,6 +71,24 @@ Version: 2.0
   text-transform: uppercase;
 }
 
+.music-link-1 {
+  color: #000000 !important;
+
+}
+.music-link-2 {
+  color: #000000 !important;
+
+}
+
+.music-link-1:hover {
+  color: #ca3d26 !important;
+}
+.music-link-2:hover {
+  color: #ca3d26 !important;
+}
+
+
+
 /*--------------------
    1. BASE CSS
 ----------------------*/
