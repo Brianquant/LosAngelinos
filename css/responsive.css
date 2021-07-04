@@ -114,6 +114,7 @@
 -----------------------------------*/
 
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
+    
     .navbar-header {
         margin-top: -8px;
     }
@@ -644,6 +645,7 @@
 -----------------------------------*/
 
 @media only screen and (min-width: 480px) and (max-width: 767px) {
+    
     .section-padding {
         padding: 50px 0;
     }
